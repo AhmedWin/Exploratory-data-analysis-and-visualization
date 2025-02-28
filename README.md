@@ -45,11 +45,6 @@ The following Python libraries are required:
 - pandas
 - seaborn
 - matplotlib
-- scikit-learn
-
-## Author
-
-Your Name  
-Your Contact Information  
+- scikit-learn 
 
 ---
