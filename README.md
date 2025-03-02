@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Exploratory-data-analysis-and-visualization
+   cd Exploratory-data-analysis-and-visualization
    ```
 2. Install dependencies:
    ```bash
